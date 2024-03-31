@@ -25,7 +25,7 @@ Please adhere to this project's `code of conduct`.
 
 ## 🔗 Links
 
-![linkedin](https://www.linkedin.com/in/khushbu-hameed-6a0551260/](https://www.linkedin.com/)
+![logo](https://www.linkedin.com/in/khushbu-hameed-6a0551260/](https://www.linkedin.com/)
 
 ## 🛠 Skills
 
