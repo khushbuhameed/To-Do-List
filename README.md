@@ -1,6 +1,4 @@
 
-### Live site here!!!
-(https://khushbuhameed.github.io/To-Do-List/)
 
 # To-Do-List
 
@@ -22,8 +20,10 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
+### Live site here!!!
+(https://khushbuhameed.github.io/To-Do-List/)
 
-## 🔗 Links
+## 🔗 ConnectWithMe
 
 (https://www.linkedin.com/in/khushbu-hameed-6a0551260/](https://www.linkedin.com/)
 
