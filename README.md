@@ -25,7 +25,7 @@ Please adhere to this project's `code of conduct`.
 
 ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/khushbu-hameed-6a0551260/](https://www.linkedin.com/)
+[!linkedin](https://www.linkedin.com/in/khushbu-hameed-6a0551260/](https://www.linkedin.com/)
 
 ## 🛠 Skills
 
@@ -34,9 +34,9 @@ Please adhere to this project's `code of conduct`.
 
 ## Features
 
--Users can fetch the data.
+-Users can add something else
 
--They can aad a task.
+-They can delete.
 
--Users can delete a task.
+-Users can change theam.
 
